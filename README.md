@@ -8,13 +8,14 @@ Build a multiplatform application using a Restful API. The whole architecture wi
 The project was proposed by Rocketseat and built during the week OmniStack 8 (from 05/08 to 09/08/2019)
 
 ## Stack
-- Backend:
- - JavaScript,
- - NodeJS,
- - Yarn,
- - MongoDB,
- - MongoDB compass,
- - Insomnia.
- 
+
+- Backend
+  - JavaScript,
+  - NodeJS,
+  - Yarn,
+  - MongoDB,
+  - MongoDB compass,
+  - Insomnia.
+  
  
  Powered by [Rocketseat](https://rocketseat.com.br) - for more informations access the website.
