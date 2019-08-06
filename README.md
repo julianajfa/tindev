@@ -1,4 +1,4 @@
-# tindev
+# Tindev
 
 Tindev is a cross-platform app for locating people with professional affinities, crossing GitHub data, locating people who are interested in similar technologies. 
 This application will be available for Web, Android and IOS systems.
